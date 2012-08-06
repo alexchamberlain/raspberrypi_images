@@ -1,0 +1,18 @@
+[mirrors]
+mirror=http://files.velocix.com/c1410/
+
+[raspbian]
+name=Raspbian
+url=images/raspbian/2012-07-15-wheezy-raspbian/2012-07-15-wheezy-raspbian.zip
+sha1=3947412babbf63f9f022f1b0b22ea6a308bb630c
+description=The recommended distribution based on a hard-float compilation of Debian
+size=461001289
+features=armv6 hf
+
+[arch]
+name=Arch
+url=images/archlinuxarm/archlinuxarm-13-06-2012/archlinuxarm-13-06-2012.zip
+sha1=8ca812dfb7f68156869a59a2c511d3eccd118da0
+description=The official distribution of Arch Linux for the Raspberry Pi.
+size=209524359
+features=
