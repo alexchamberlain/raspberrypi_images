@@ -11,8 +11,8 @@ features=armv6 hf
 
 [arch]
 name=Arch
-url=images/archlinuxarm/archlinuxarm-13-06-2012/archlinuxarm-13-06-2012.zip
-sha1=8ca812dfb7f68156869a59a2c511d3eccd118da0
+url=images/archlinuxarm/archlinux-hf-2012-09-18/archlinux-hf-2012-09-18.zip
+sha1=56e043f3c629f6c408759bcc157d2d635ce0b6af
 description=The official distribution of Arch Linux for the Raspberry Pi.
-size=209524359
-features=
+size=166578651
+features=armv6 hf
